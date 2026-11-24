@@ -131,5 +131,5 @@ def BeitNetofaClay():
   pars['m']=1-1/pars['n']
   pars['Ks']=0.00082
   pars['neta']=0.5
-  pars['Ss']=0.000001
+  pars['Ss']= 1.28e-03
   return pars
